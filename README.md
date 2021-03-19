@@ -27,6 +27,9 @@ npm install
 
 And do some magic!
 
+# Features
+
+- Use `log.info("Some message")` or `log.error("Some error message")` for logging application via Winston at predefined in `.env` log format mode
 
 ### Building project
 
