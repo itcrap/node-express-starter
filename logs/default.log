@@ -1,0 +1,801 @@
+[2021-03-19T15:02:50.289Z] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T15:02:50.342Z] [info] HTTP GET /favicon.ico from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T15:11:22.513Z] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T15:45:03.659Z] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T15:59:06.777Z] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T15:59:06.830Z] [info] HTTP GET /favicon.ico from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T16:00:28.612Z] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T16:00:28.658Z] [info] HTTP GET /favicon.ico from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T16:00:54.002Z] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+[2021-03-19T16:00:54.096Z] [info] HTTP GET /favicon.ico from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+{"meta":{"req":{"url":"/","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","connection":"keep-alive","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\"","upgrade-insecure-requests":"1","cache-control":"max-age=0"},"method":"GET","httpVersion":"1.1","originalUrl":"/","query":{}},"res":{"statusCode":200},"responseTime":2},"level":"info","message":"HTTP GET /","timestamp":"2021.03.19 19:15:01"}
+{"meta":{"req":{"url":"/favicon.ico","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"image/webp,*/*","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\"","cache-control":"max-age=0"},"method":"GET","httpVersion":"1.1","originalUrl":"/favicon.ico","query":{}},"res":{"statusCode":500},"responseTime":5},"level":"info","message":"HTTP GET /favicon.ico","timestamp":"2021.03.19 19:15:01"}
+{"meta":{"req":{"url":"/","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","connection":"keep-alive","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\"","upgrade-insecure-requests":"1","if-none-match":"W/\"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA\"","cache-control":"max-age=0"},"method":"GET","httpVersion":"1.1","originalUrl":"/","query":{}},"res":{"statusCode":304},"responseTime":2},"level":"info","message":"HTTP GET /","timestamp":"2021.03.19 19:15:47"}
+2021.03.19 19:16:14;info;HTTP GET /;{"req":{"url":"/","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","connection":"keep-alive","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\"","upgrade-insecure-requests":"1","if-none-match":"W/\"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA\"","cache-control":"max-age=0"},"method":"GET","httpVersion":"1.1","originalUrl":"/","query":{}},"res":{"statusCode":304},"responseTime":2}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+        'cache-control': 'max-age=0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /',
+  timestamp: '2021.03.19 19:18:55'
+}
+2021.03.19 19:23:26;info;HTTP GET /;"/";"GET";"1.1";"/";{};304;"localhost:3000";"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";"keep-alive";"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\""
+2021.03.19 19:30:33;info;HTTP GET /;"/";"GET";"1.1";"/";{};304;"localhost:3000";"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";"keep-alive"
+2021.03.19 19:33:42;info;HTTP GET /;/;GET;1.1;/;[object Object];200;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.19 19:44:47;info;HTTP GET /;/;GET;1.1;/;[object Object];200;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.19 19:53:26;info;HTTP GET /;/;GET;1.1;/;[object Object];200;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.19 19:57:11;info;HTTP GET /;/;GET;1.1;/;[object Object];304;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+;info;HTTP GET /;/;GET;1.1;/;[object Object];200;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+;info;HTTP GET /;/;GET;1.1;/;[object Object];304;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+;info;HTTP GET /;/;GET;1.1;/;[object Object];304;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.19 20:04:38;info;HTTP GET /;/;GET;1.1;/;[object Object];304;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.19 20:07:48;info;HTTP GET /;/;GET;1.1;/;[object Object];304;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+{"meta":{"req":{"url":"/","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","connection":"keep-alive","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\"","upgrade-insecure-requests":"1","if-none-match":"W/\"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA\"","cache-control":"max-age=0"},"method":"GET","httpVersion":"1.1","originalUrl":"/","query":{}},"res":{"statusCode":304},"responseTime":2},"level":"info","message":"HTTP GET /","timestamp":"2021.03.19 20:08:08"}
+info: HTTP GET / {"meta":{"req":{"url":"/","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","connection":"keep-alive","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\"","upgrade-insecure-requests":"1","if-none-match":"W/\"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA\"","cache-control":"max-age=0"},"method":"GET","httpVersion":"1.1","originalUrl":"/","query":{}},"res":{"statusCode":304},"responseTime":2},"timestamp":"2021.03.19 20:08:34"}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+        'cache-control': 'max-age=0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /',
+  timestamp: '2021.03.19 20:10:11'
+}
+[2021.03.19 20:11:44] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 20:14:11] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 20:14:43] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 20:16:53] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 20:41:21] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.19 20:42:14] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 20:44:41] [info] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 21:07:45] [[32minfo[39m] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 21:11:20] [[32minfo[39m] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 21:16:31] [[32minfo[39m] HTTP GET / from localhost:3000 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 21:20:47][[32minfo[39m] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.19 21:26:21][[32minfo[39m][object Object]
+undefined
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[2021.03.19 21:32:42][[32minfo[39m] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 21:35:00][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.19 21:38:30][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[object Object]
+[object Object]
+[object Object]
+2021.03.19 21:45:01 - info: HTTP GET /
+[2021.03.19 21:57:19][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.19 22:05:43][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.19 22:07:01][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.19 23:45:25][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.20 00:07:57][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.20 00:10:10][info] HTTP GET / 1111 localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.20 00:10:18][info] HTTP GET / 1111 localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.20 00:10:23][info] HTTP GET / 1111 localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 200
+[2021.03.20 00:18:52][info] Test info message from index.js
+[2021.03.20 00:18:52][info] Test info message from index.js
+[2021.03.20 00:18:52][info] Example app listening on port 3000
+[2021.03.20 00:18:52][info] Example app listening on port 3000
+[2021.03.20 00:19:00][info] Test info message from index.js
+[2021.03.20 00:19:00][info] Test info message from index.js
+[2021.03.20 00:19:00][info] Example app listening on port 3000
+[2021.03.20 00:19:00][info] Example app listening on port 3000
+[2021.03.20 00:19:10][info] EEEEEEERRRRRRRRROOORRR
+[2021.03.20 00:19:10][info] EEEEEEERRRRRRRRROOORRR
+[2021.03.20 00:19:10][info] function next(err) {
+    var layerError = err === 'route'
+      ? null
+      : err;
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.substr(1);
+      slashAdded = false;
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl;
+      req.url = protohost + removed + req.url.substr(protohost.length);
+      removed = '';
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError);
+      return;
+    }
+
+    // get pathname of request
+    var path = getPathname(req);
+
+    if (path == null) {
+      return done(layerError);
+    }
+
+    // find next matching layer
+    var layer;
+    var match;
+    var route;
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++];
+      match = matchLayer(layer, path);
+      route = layer.route;
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match;
+      }
+
+      if (match !== true) {
+        continue;
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue;
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false;
+        continue;
+      }
+
+      var method = req.method;
+      var has_method = route._handles_method(method);
+
+      // build up automatic options response
+      if (!has_method && method === 'OPTIONS') {
+        appendMethods(options, route._options());
+      }
+
+      // don't even bother matching route
+      if (!has_method && method !== 'HEAD') {
+        match = false;
+        continue;
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError);
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route;
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params;
+    var layerPath = layer.path;
+
+    // this should be done for the layer
+    self.process_params(layer, paramcalled, req, res, function (err) {
+      if (err) {
+        return next(layerError || err);
+      }
+
+      if (route) {
+        return layer.handle_request(req, res, next);
+      }
+
+      trim_prefix(layer, layerError, layerPath, path);
+    });
+  }
+[2021.03.20 00:19:10][info] function next(err) {
+    var layerError = err === 'route'
+      ? null
+      : err;
+
+    // remove added slash
+    if (slashAdded) {
+      req.url = req.url.substr(1);
+      slashAdded = false;
+    }
+
+    // restore altered req.url
+    if (removed.length !== 0) {
+      req.baseUrl = parentUrl;
+      req.url = protohost + removed + req.url.substr(protohost.length);
+      removed = '';
+    }
+
+    // signal to exit router
+    if (layerError === 'router') {
+      setImmediate(done, null)
+      return
+    }
+
+    // no more matching layers
+    if (idx >= stack.length) {
+      setImmediate(done, layerError);
+      return;
+    }
+
+    // get pathname of request
+    var path = getPathname(req);
+
+    if (path == null) {
+      return done(layerError);
+    }
+
+    // find next matching layer
+    var layer;
+    var match;
+    var route;
+
+    while (match !== true && idx < stack.length) {
+      layer = stack[idx++];
+      match = matchLayer(layer, path);
+      route = layer.route;
+
+      if (typeof match !== 'boolean') {
+        // hold on to layerError
+        layerError = layerError || match;
+      }
+
+      if (match !== true) {
+        continue;
+      }
+
+      if (!route) {
+        // process non-route handlers normally
+        continue;
+      }
+
+      if (layerError) {
+        // routes do not match with a pending error
+        match = false;
+        continue;
+      }
+
+      var method = req.method;
+      var has_method = route._handles_method(method);
+
+      // build up automatic options response
+      if (!has_method && method === 'OPTIONS') {
+        appendMethods(options, route._options());
+      }
+
+      // don't even bother matching route
+      if (!has_method && method !== 'HEAD') {
+        match = false;
+        continue;
+      }
+    }
+
+    // no match
+    if (match !== true) {
+      return done(layerError);
+    }
+
+    // store route for dispatch on change
+    if (route) {
+      req.route = route;
+    }
+
+    // Capture one-time layer values
+    req.params = self.mergeParams
+      ? mergeParams(layer.params, parentParams)
+      : layer.params;
+    var layerPath = layer.path;
+
+    // this should be done for the layer
+    self.process_params(layer, paramcalled, req, res, function (err) {
+      if (err) {
+        return next(layerError || err);
+      }
+
+      if (route) {
+        return layer.handle_request(req, res, next);
+      }
+
+      trim_prefix(layer, layerError, layerPath, path);
+    });
+  }
+[2021.03.20 00:20:06][info] Test info message from index.js
+[2021.03.20 00:20:06][info] Test info message from index.js
+[2021.03.20 00:20:06][info] Example app listening on port 3000
+[2021.03.20 00:20:06][info] Example app listening on port 3000
+[2021.03.20 00:20:08];[info];HTTP GET /jhgfj;from localhost:3000;at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0;with status code 500
+[2021.03.20 00:20:39][info] Test info message from index.js
+[2021.03.20 00:20:39][info] Test info message from index.js
+[2021.03.20 00:20:39][info] Example app listening on port 3000
+[2021.03.20 00:20:39][info] Example app listening on port 3000
+[2021.03.20 00:20:43];[info];HTTP GET /jhgfj;from localhost:3000;at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0;with status code 500
+[2021.03.20 00:21:17];[info];HTTP GET /jhgfj;from localhost:3000;at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0;with status code 500
+[2021.03.20 00:21:25][info] Test info message from index.js
+[2021.03.20 00:21:25][info] Test info message from index.js
+[2021.03.20 00:21:25][info] Example app listening on port 3000
+[2021.03.20 00:21:25][info] Example app listening on port 3000
+[2021.03.20 00:21:33][info] Test info message from index.js
+[2021.03.20 00:21:33][info] Test info message from index.js
+[2021.03.20 00:21:33][info] Example app listening on port 3000
+[2021.03.20 00:21:33][info] Example app listening on port 3000
+[2021.03.20 00:24:37];[info];HTTP GET /jhgfj;from localhost:3000;at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0;with status code 500
+[2021.03.20 00:24:52][info] Test info message from index.js
+[2021.03.20 00:24:52][info] Test info message from index.js
+[2021.03.20 00:24:52][info] Example app listening on port 3000
+[2021.03.20 00:24:52][info] Example app listening on port 3000
+[2021.03.20 00:24:52][info] [object Object]
+[2021.03.20 00:24:52][info] [object Object]
+[2021.03.20 00:24:52];[info];HTTP GET /jhgfj;from localhost:3000;at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0;with status code 500
+[2021.03.20 00:25:18][info] Test info message from index.js
+[2021.03.20 00:25:18][info] Test info message from index.js
+[2021.03.20 00:25:18][info] Example app listening on port 3000
+[2021.03.20 00:25:18][info] Example app listening on port 3000
+[2021.03.20 00:25:23][info] Test info message from index.js
+[2021.03.20 00:25:23][info] Test info message from index.js
+[2021.03.20 00:25:23][info] Example app listening on port 3000
+[2021.03.20 00:25:23][info] Example app listening on port 3000
+[2021.03.20 00:25:23];[info];HTTP GET /jhgfj;from localhost:3000;at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0;with status code 404
+[2021.03.20 00:25:49][info] Test info message from index.js
+[2021.03.20 00:25:49][info] Test info message from index.js
+[2021.03.20 00:25:49][info] Example app listening on port 3000
+[2021.03.20 00:25:49][info] Example app listening on port 3000
+[2021.03.20 00:25:51],[info],HTTP GET /jhgfj,from localhost:3000,at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0,with status code 404
+[2021.03.20 00:26:05][info] Test info message from index.js
+[2021.03.20 00:26:05][info] Test info message from index.js
+[2021.03.20 00:26:05][info] Example app listening on port 3000
+[2021.03.20 00:26:05][info] Example app listening on port 3000
+[2021.03.20 00:26:11] [info] HTTP GET /jhgfj from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:26:46][info] Test info message from index.js
+[2021.03.20 00:26:46][info] Test info message from index.js
+[2021.03.20 00:26:46][info] Example app listening on port 3000
+[2021.03.20 00:26:46][info] Example app listening on port 3000
+[2021.03.20 00:27:10][info] Test info message from index.js
+[2021.03.20 00:27:10][info] Test info message from index.js
+[2021.03.20 00:27:10][info] Example app listening on port 3000
+[2021.03.20 00:27:10][info] Example app listening on port 3000
+[2021.03.20 00:27:13] [info] HTTP GET /jhgfj from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:27:34][info] Test info message from index.js
+[2021.03.20 00:27:34][info] Test info message from index.js
+[2021.03.20 00:27:34][info] Example app listening on port 3000
+[2021.03.20 00:27:34][info] Example app listening on port 3000
+[2021.03.20 00:27:36] [info] HTTP GET /jhgfj from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:27:37] [info] HTTP GET /jhgfj from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:27:37] [info] HTTP GET /jhgfj from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:27:37] [info] HTTP GET /jhgfj from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:27:37] [info] HTTP GET /jhgfj from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:28:25][info] Test info message from index.js
+[2021.03.20 00:28:25][info] Test info message from index.js
+[2021.03.20 00:28:25][info] Example app listening on port 3000
+[2021.03.20 00:28:25][info] Example app listening on port 3000
+[2021.03.20 00:28:36] [info] HTTP GET /jhgfj  from localhost:3000  at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0  with status code 404
+[2021.03.20 00:28:36] [info] HTTP GET /jhgfj  from localhost:3000  at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0  with status code 404
+[2021.03.20 00:28:37] [info] HTTP GET /jhgfj  from localhost:3000  at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0  with status code 404
+[2021.03.20 00:28:54][info] Test info message from index.js
+[2021.03.20 00:28:54][info] Test info message from index.js
+[2021.03.20 00:28:54][info] Example app listening on port 3000
+[2021.03.20 00:28:54][info] Example app listening on port 3000
+[2021.03.20 00:28:57] [info] HTTP GET /jhgfj  from localhost:3000  at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0  with status code 404
+[2021.03.20 00:29:23][info] Test info message from index.js
+[2021.03.20 00:29:23][info] Test info message from index.js
+[2021.03.20 00:29:23][info] Example app listening on port 3000
+[2021.03.20 00:29:23][info] Example app listening on port 3000
+[2021.03.20 00:29:30] [info] HTTP GET /jhgfj  from localhost:3000  at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0  with status code 404
+2021.03.20 00:30:06;info;Test info message from index.js
+2021.03.20 00:30:06;info;Test info message from index.js
+2021.03.20 00:30:06;info;Example app listening on port 3000
+2021.03.20 00:30:06;info;Example app listening on port 3000
+2021.03.20 00:30:24;info;HTTP GET /jhgfj;/jhgfj;GET;1.1;/jhgfj;[object Object];404;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.20 00:31:07;info;HTTP GET /jhgfj;/jhgfj;GET;1.1;/jhgfj;[object Object];404;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.20 00:31:10;info;Test info message from index.js
+2021.03.20 00:31:10;info;Test info message from index.js
+2021.03.20 00:31:10;info;Example app listening on port 3000
+2021.03.20 00:31:10;info;Example app listening on port 3000
+2021.03.20 00:31:13;info;HTTP GET /jhgfj;/jhgfj;GET;1.1;/jhgfj;{};404;localhost:3000;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8;keep-alive
+2021.03.20 00:32:00;info;HTTP POST /;/;POST;1.1;/;{};404;localhost:3000;*/*;keep-alive
+{ message: 'Test info message from index.js', level: 'info' }
+{ message: 'Test info message from index.js', level: 'info' }
+{ message: 'Example app listening on port 3000', level: 'info' }
+{ message: 'Example app listening on port 3000', level: 'info' }
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: '*/*',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'text/plain;charset=UTF-8',
+        origin: 'moz-extension://3cc1dc4c-985e-4f9a-b542-a88b76170328',
+        'content-length': '25',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP POST /'
+}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: '*/*',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/x-www-form-urlencoded',
+        origin: 'moz-extension://3cc1dc4c-985e-4f9a-b542-a88b76170328',
+        'content-length': '19',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:44:25'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:44:25'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:44:25'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:44:25'
+}
+{
+  meta: {
+    req: {
+      url: '/jhgfj',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"',
+        'upgrade-insecure-requests': '1',
+        'cache-control': 'max-age=0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/jhgfj',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /jhgfj',
+  timestamp: '2021.03.20 00:46:48'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:47:31'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:47:31'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:47:31'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:47:31'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:50:15'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:50:15'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:50:15'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:50:15'
+}
+{
+  meta: {
+    req: {
+      url: '/jhgfj',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"',
+        'upgrade-insecure-requests': '1',
+        'cache-control': 'max-age=0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/jhgfj',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /jhgfj',
+  timestamp: '2021.03.20 00:50:20'
+}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /',
+  timestamp: '2021.03.20 00:50:41'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'image/webp,*/*',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        referer: 'http://localhost:3000/',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP GET /favicon.ico',
+  timestamp: '2021.03.20 00:50:41'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:53:14'
+}
+{
+  message: 'Test info message from index.js',
+  level: 'info',
+  timestamp: '2021.03.20 00:53:14'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:53:14'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  timestamp: '2021.03.20 00:53:14'
+}
+{
+  message: '\u001b[32mTest info message from index.js\u001b[39m',
+  level: '\u001b[32minfo\u001b[39m',
+  timestamp: '2021.03.20 00:54:13'
+}
+{
+  message: '\u001b[32mTest info message from index.js\u001b[39m',
+  level: '\u001b[32minfo\u001b[39m',
+  timestamp: '2021.03.20 00:54:13'
+}
+{
+  message: '\u001b[32mExample app listening on port 3000\u001b[39m',
+  level: '\u001b[32minfo\u001b[39m',
+  timestamp: '2021.03.20 00:54:13'
+}
+{
+  message: '\u001b[32mExample app listening on port 3000\u001b[39m',
+  level: '\u001b[32minfo\u001b[39m',
+  timestamp: '2021.03.20 00:54:13'
+}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"',
+        'upgrade-insecure-requests': '1',
+        'cache-control': 'max-age=0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: '\u001b[32minfo\u001b[39m',
+  message: '\u001b[32mHTTP GET /\u001b[39m',
+  timestamp: '2021.03.20 00:54:25'
+}
+{
+  meta: {
+    req: {
+      url: '/favicon.ico',
+      headers: {
+        host: 'localhost:3000',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',
+        accept: 'image/webp,*/*',
+        'accept-language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        referer: 'http://localhost:3000/',
+        cookie: '_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889="2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b"',
+        'cache-control': 'max-age=0'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/favicon.ico',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2
+  },
+  level: '\u001b[32minfo\u001b[39m',
+  message: '\u001b[32mHTTP GET /favicon.ico\u001b[39m',
+  timestamp: '2021.03.20 00:54:25'
+}
+[2021.03.20 00:54:38][[32minfo[39m] [32mTest info message from index.js[39m
+[2021.03.20 00:54:38][[32minfo[39m] [32mTest info message from index.js[39m
+[2021.03.20 00:54:38][[32minfo[39m] [32mExample app listening on port 3000[39m
+[2021.03.20 00:54:38][[32minfo[39m] [32mExample app listening on port 3000[39m
+[2021.03.20 00:54:44] [[32minfo[39m] [32mHTTP GET /[39m  from localhost:3000  at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0  with status code 304
+[2021.03.20 00:54:59] [[32minfo[39m] [32mHTTP GET /asd[39m  from localhost:3000  at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0  with status code 404
+[2021.03.20 00:55:25][[32minfo[39m] [32mTest info message from index.js[39m
+[2021.03.20 00:55:25][[32minfo[39m] [32mTest info message from index.js[39m
+[2021.03.20 00:55:25][[32minfo[39m] [32mExample app listening on port 3000[39m
+[2021.03.20 00:55:25][[32minfo[39m] [32mExample app listening on port 3000[39m
+[2021.03.20 00:55:47][info] Test info message from index.js
+[2021.03.20 00:55:47][info] Test info message from index.js
+[2021.03.20 00:55:47][info] Example app listening on port 3000
+[2021.03.20 00:55:47][info] Example app listening on port 3000
+[2021.03.20 00:55:56][info] Test info message from index.js
+[2021.03.20 00:55:56][info] Test info message from index.js
+[2021.03.20 00:55:56][info] Example app listening on port 3000
+[2021.03.20 00:55:56][info] Example app listening on port 3000
+[2021.03.20 00:55:57][info]HTTP GET /asd from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:56:14][info] Test info message from index.js
+[2021.03.20 00:56:14][info] Test info message from index.js
+[2021.03.20 00:56:14][info] Example app listening on port 3000
+[2021.03.20 00:56:14][info] Example app listening on port 3000
+[2021.03.20 00:56:17][info] HTTP GET /asd from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:56:30][info] HTTP GET / from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 304
+[2021.03.20 00:56:55][info] HTTP GET /asd from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:57:00][info] HTTP PATCH /asd from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+[2021.03.20 00:57:03][info] HTTP PATCH /asd from localhost:3000 at Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0 with status code 404
+{"message":"Test info message from index.js","level":"info","timestamp":"2021.03.20 00:57:30"}
+{"message":"Test info message from index.js","level":"info","timestamp":"2021.03.20 00:57:30"}
+{"message":"Example app listening on port 3000","level":"info","timestamp":"2021.03.20 00:57:30"}
+{"message":"Example app listening on port 3000","level":"info","timestamp":"2021.03.20 00:57:30"}
+{"message":"Test info message from index.js","level":"info","timestamp":"2021.03.20 00:57:48"}
+{"message":"Test info message from index.js","level":"info","timestamp":"2021.03.20 00:57:48"}
+{"message":"Example app listening on port 3000","level":"info","timestamp":"2021.03.20 00:57:48"}
+{"message":"Example app listening on port 3000","level":"info","timestamp":"2021.03.20 00:57:48"}
+{"meta":{"req":{"url":"/asd","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"*/*","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","content-type":"text/plain;charset=UTF-8","origin":"moz-extension://3cc1dc4c-985e-4f9a-b542-a88b76170328","content-length":"20","connection":"keep-alive","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\""},"method":"PATCH","httpVersion":"1.1","originalUrl":"/asd","query":{}},"res":{"statusCode":404},"responseTime":2},"level":"info","message":"HTTP PATCH /asd","timestamp":"2021.03.20 00:57:57"}
+info: Test info message from index.js {"timestamp":"2021.03.20 00:59:20"}
+info: Test info message from index.js {"timestamp":"2021.03.20 00:59:20"}
+info: Example app listening on port 3000 {"timestamp":"2021.03.20 00:59:20"}
+info: Example app listening on port 3000 {"timestamp":"2021.03.20 00:59:20"}
+info: HTTP GET / {"meta":{"req":{"url":"/","headers":{"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3","accept-encoding":"gzip, deflate","connection":"keep-alive","cookie":"_xsrf=2|fa1b501c|acdf8914dd21a2419d7cfcca3092f83e|1614263883; username-localhost-8889=\"2|1:0|10:1614263918|23:username-localhost-8889|44:OWZjYjEyOWYyOTNjNGRkOGI5OWE5Yjg3OWMxNzg3YjQ=|6c12ae9fb58e0df0be0d19f301ab7133881151a4475f3154445e318ffd23496b\"","upgrade-insecure-requests":"1","if-none-match":"W/\"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA\"","cache-control":"max-age=0"},"method":"GET","httpVersion":"1.1","originalUrl":"/","query":{}},"res":{"statusCode":304},"responseTime":1},"timestamp":"2021.03.20 00:59:39"}
