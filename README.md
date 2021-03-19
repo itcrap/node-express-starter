@@ -29,6 +29,7 @@ And do some magic!
 
 # Features
 
+- Autofix yor code with `ESLint` and `Airbnb style guides` automatically
 - Use `log.info("Some message")` or `log.error("Some error message")` for logging application via Winston at predefined in `.env` log format mode
 
 ### Building project
