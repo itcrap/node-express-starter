@@ -16,7 +16,7 @@ Starter project for creating ExpressJS for backend enterprise applications with 
 Clone repo to current directory
 
 ```
-git clone https://github.com/itcrap/node-webapp-starter .
+git clone https://github.com/itcrap/node-express-starter .
 ```
 
 Install dependencies
