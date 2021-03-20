@@ -11,7 +11,11 @@
     "debug": "SET DEBUG=node-express-starter:* && node ./src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Matthew Soul",
+    "email": "itcraper@gmail.com",
+    "url": "http://itcrap.ru/"
+  },
   "license": "ISC",
   "dependencies": {
     "-": "0.0.1",
